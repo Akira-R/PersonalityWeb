@@ -1,0 +1,47 @@
+.cardx {
+  margin: auto;
+  width: 150px;
+  text-align:center;
+  border: 2px solid rgb(136, 90, 130);
+  border-radius: 5px;
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cardx img{
+  width: 150px;
+  height: 208px;
+  margin: auto;
+  object-fit: cover;
+}
+
+.myNavLink {
+  text-decoration: none;
+  color:rgb(222, 220, 220)
+}
+
+.myNavLink:hover{
+  color:white
+}
+
+.myLink {
+  text-decoration: none;
+  font-weight: 700;
+  color:rgb(97, 64, 64)
+}
+
+/* .dot {
+  margin: auto;
+  width: 50x;
+  text-align:center;
+  border: 2px solid rgb(136, 90, 130);
+  border-radius: 5px;
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+} */
+
+.dot img{
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  object-fit: cover;
+}
